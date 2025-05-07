@@ -1,5 +1,13 @@
 # viem
 
+## 2.29.1
+
+### Patch Changes
+
+- [#3625](https://github.com/wevm/viem/pull/3625) [`c8b6a18a229c8fc7137dfee67cd805c0d6c4f01f`](https://github.com/wevm/viem/commit/c8b6a18a229c8fc7137dfee67cd805c0d6c4f01f) Thanks [@alien-max](https://github.com/alien-max)! - Added arenaz chain.
+
+- [#3623](https://github.com/wevm/viem/pull/3623) [`5cf857b6d2f1e25b635626c0e3056dc769bbf75d`](https://github.com/wevm/viem/commit/5cf857b6d2f1e25b635626c0e3056dc769bbf75d) Thanks [@aaronmgdr](https://github.com/aaronmgdr)! - **Celo:** Updated `CeloBlock` & `CeloRpcBlock` types.
+
 ## 2.29.0
 
 ### Minor Changes
